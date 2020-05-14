@@ -16,3 +16,5 @@
 1) https://en.wikibooks.org/wiki/Wikibooks_Stacks/Departments
 2) https://learn.datacamp.com 
 
+# Best blogs 
+1) https://djangostars.com/blog/ 
