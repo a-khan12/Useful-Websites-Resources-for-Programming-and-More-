@@ -18,3 +18,4 @@
 
 # Best blogs 
 1) https://djangostars.com/blog/ 
+2) https://codeyarns.github.io/tech/ 
