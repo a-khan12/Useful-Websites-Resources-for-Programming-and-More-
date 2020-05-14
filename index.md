@@ -15,6 +15,7 @@
 
 1) https://en.wikibooks.org/wiki/Wikibooks_Stacks/Departments
 2) https://learn.datacamp.com 
+3) https://www.softwaretestinghelp.com/
 
 # Best blogs 
 1) https://djangostars.com/blog/ 
